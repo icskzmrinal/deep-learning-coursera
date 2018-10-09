@@ -88,7 +88,3 @@ There are concerns that some people may use the content here to quickly ace the 
 
 ~~- Screenshots for Course 5: Sequence Models~~
 
-
-## Milestones
-
-  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
